@@ -15,9 +15,9 @@ export default function handler(req, res) {
       "pincode": "",
       "state": "TELANGANA",
       "town": ""
-    },
-    // ... (all other user objects from the JSON)
-    {
+  },
+  // ... (all other user objects from the JSON)
+  {
     "name": "J Vinod",
     "fathersName": "",
     "phoneNumber": "9490160194",
