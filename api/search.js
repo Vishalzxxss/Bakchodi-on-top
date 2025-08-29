@@ -34,7 +34,7 @@ export default function handler(req, res) {
   {
     "Name": "RASHI",
     "Guardian Name": "",
-    "Mobile No": "8295023718",
+    "phoneNumber": "8295023718",
     "Aadhar No": "839332573101",
     "Age": "6",
     "Gender": "Female",
@@ -42,12 +42,12 @@ export default function handler(req, res) {
     "District": "MAHENDRAGARH",
     "Pincode": "",
     "State": "HARYANA",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "A Venkataramana",
     "Guardian Name": "",
-    "Mobile No": "9502021404",
+    "phoneNumber": "9502021404",
     "Aadhar No": "714174105495",
     "Age": "70",
     "Gender": "Male",
@@ -55,12 +55,12 @@ export default function handler(req, res) {
     "District": "CHITTOOR",
     "Pincode": "517234",
     "State": "ANDHRA PRADESH",
-    "Area": "Kalikiri"
+    "Channel;-": "https://t.me/+_EjlK4NM5qZmMjM1"
   },
   {
     "Name": "SNEHA",
     "Guardian Name": "",
-    "Mobile No": "9813122094",
+    "phoneNumber": "9813122094",
     "Aadhar No": "839403093262",
     "Age": "13",
     "Gender": "Female",
@@ -68,12 +68,12 @@ export default function handler(req, res) {
     "District": "MAHENDRAGARH",
     "Pincode": "",
     "State": "HARYANA",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "Harshavardhan Kota",
     "Guardian Name": "",
-    "Mobile No": "9666524547",
+    "phoneNumber": "9666524547",
     "Aadhar No": "527583175307",
     "Age": "27",
     "Gender": "Male",
@@ -81,12 +81,12 @@ export default function handler(req, res) {
     "District": "SPSR NELLORE",
     "Pincode": "524003",
     "State": "ANDHRA PRADESH",
-    "Area": "Nellore"
+    "Channel;-": "https://t.me/+_EjlK4NM5qZmMjM1"
   },
   {
     "Name": "Ab Rashid",
     "Guardian Name": "",
-    "Mobile No": "9797156853",
+    "phoneNumber": "9797156853",
     "Aadhar No": "410056561417",
     "Age": "48",
     "Gender": "Male",
@@ -94,12 +94,12 @@ export default function handler(req, res) {
     "District": "SRINAGAR",
     "Pincode": "",
     "State": "JAMMU AND KASHMIR",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "PRASANNA KUMAR BELKALE",
     "Guardian Name": "",
-    "Mobile No": "9886096550",
+    "phoneNumber": "9886096550",
     "Aadhar No": "221122730108",
     "Age": "42",
     "Gender": "Male",
@@ -107,12 +107,12 @@ export default function handler(req, res) {
     "District": "BENGALURU URBAN",
     "Pincode": "560061",
     "State": "KARNATAKA",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "SAKSHI",
     "Guardian Name": "",
-    "Mobile No": "7906721337",
+    "phoneNumber": "7906721337",
     "Aadhar No": "669267455837",
     "Age": "21",
     "Gender": "Female",
@@ -120,12 +120,12 @@ export default function handler(req, res) {
     "District": "DEHRADUN",
     "Pincode": "248197",
     "State": "UTTARAKHAND",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "B umadevi",
     "Guardian Name": "",
-    "Mobile No": "9440112958",
+    "phoneNumber": "9440112958",
     "Aadhar No": "804336844543",
     "Age": "46",
     "Gender": "Female",
@@ -133,12 +133,12 @@ export default function handler(req, res) {
     "District": "Y S R",
     "Pincode": "516359",
     "State": "ANDHRA PRADESH",
-    "Area": "Rajupalem"
+    "Channel;-": "https://t.me/+_EjlK4NM5qZmMjM1"
   },
   {
     "Name": "SMRITY",
     "Guardian Name": "",
-    "Mobile No": "8210826876",
+    "phoneNumber": "8210826876",
     "Aadhar No": "559045779779",
     "Age": "20",
     "Gender": "Female",
@@ -146,12 +146,12 @@ export default function handler(req, res) {
     "District": "DEHRADUN",
     "Pincode": "804454",
     "State": "UTTARAKHAND",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "SHUBHAM UTTAKARSH",
     "Guardian Name": "",
-    "Mobile No": "8013132610",
+    "phoneNumber": "8013132610",
     "Aadhar No": "728136278764",
     "Age": "28",
     "Gender": "Male",
@@ -159,12 +159,12 @@ export default function handler(req, res) {
     "District": "NEW DELHI",
     "Pincode": "110060",
     "State": "DELHI",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "GEETA SHUKLA",
     "Guardian Name": "",
-    "Mobile No": "7989927995",
+    "phoneNumber": "7989927995",
     "Aadhar No": "786495408569",
     "Age": "57",
     "Gender": "Female",
@@ -172,12 +172,12 @@ export default function handler(req, res) {
     "District": "REWA",
     "Pincode": "486450",
     "State": "MADHYA PRADESH",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "PATEL NISHI MAHESHBHAI",
     "Guardian Name": "",
-    "Mobile No": "9054181743",
+    "phoneNumber": "9054181743",
     "Aadhar No": "864623467560",
     "Age": "24",
     "Gender": "Female",
@@ -185,12 +185,12 @@ export default function handler(req, res) {
     "District": "MAHESANA",
     "Pincode": "",
     "State": "GUJARAT",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "Ms  SONU KOMBLE",
     "Guardian Name": "",
-    "Mobile No": "9604756393",
+    "phoneNumber": "9604756393",
     "Aadhar No": "694280288312",
     "Age": "36",
     "Gender": "Female",
@@ -198,12 +198,12 @@ export default function handler(req, res) {
     "District": "NAGPUR",
     "Pincode": "",
     "State": "MAHARASHTRA",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "Nikhil Waddar",
     "Guardian Name": "",
-    "Mobile No": "7337786587",
+    "phoneNumber": "7337786587",
     "Aadhar No": "543389229035",
     "Age": "18",
     "Gender": "Male",
@@ -211,12 +211,12 @@ export default function handler(req, res) {
     "District": "BELAGAVI",
     "Pincode": "591123",
     "State": "KARNATAKA",
-    "Area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "Name": "Mr  JULIA MUKHOPADHYAY",
     "Guardian Name": "",
-    "Mobile No": "9963028526",
+    "phoneNumber": "9963028526",
     "Aadhar No": "781150280602",
     "Age": "39",
     "Gender": "Male",
@@ -224,12 +224,12 @@ export default function handler(req, res) {
     "District": "THANE",
     "Pincode": "400607",
     "State": "MAHARASHTRA",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "SHUVENDU KONAI 82374",
     "Guardian Name": "",
-    "Mobile No": "7602216241",
+    "phoneNumber": "7602216241",
     "Aadhar No": "943731630492",
     "Age": "26",
     "Gender": "Male",
@@ -237,12 +237,12 @@ export default function handler(req, res) {
     "District": "MUMBAI",
     "Pincode": "400001",
     "State": "MAHARASHTRA",
-    "Area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "Name": "Ajay prabhakar chafe",
     "Guardian Name": "",
-    "Mobile No": "8452885188",
+    "phoneNumber": "8452885188",
     "Aadhar No": "685113044070",
     "Age": "32",
     "Gender": "Male",
@@ -250,12 +250,12 @@ export default function handler(req, res) {
     "District": "THANE",
     "Pincode": "421503",
     "State": "MAHARASHTRA",
-    "Area": "Rural"
+    "Channel;-": "Rural"
   },
   {
     "Name": "MUNGREICHON RAISING",
     "Guardian Name": "Shailei Raising",
-    "Mobile No": "8118903410",
+    "phoneNumber": "8118903410",
     "Aadhar No": "822788748802",
     "Age": "25",
     "Gender": "Female",
@@ -263,12 +263,12 @@ export default function handler(req, res) {
     "District": "IMPHAL EAST",
     "Pincode": "795142",
     "State": "MANIPUR",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "Gannavarapu Sai Tulasi",
     "Guardian Name": "",
-    "Mobile No": "9392223657",
+    "phoneNumber": "9392223657",
     "Aadhar No": "998198787654",
     "Age": "21",
     "Gender": "Female",
@@ -276,12 +276,12 @@ export default function handler(req, res) {
     "District": "EAST GODAVARI",
     "Pincode": "533468",
     "State": "ANDHRA PRADESH",
-    "Area": "Karapa"
+    "Channel;-": "Karapa"
   },
   {
     "Name": "Burugu Rangayya",
     "Guardian Name": "",
-    "Mobile No": "9553972863",
+    "phoneNumber": "9553972863",
     "Aadhar No": "341630483201",
     "Age": "35",
     "Gender": "Male",
@@ -289,12 +289,12 @@ export default function handler(req, res) {
     "District": "VISAKHAPATANAM",
     "Pincode": "535145",
     "State": "ANDHRA PRADESH",
-    "Area": "Ananthagiri"
+    "Channel;-": "Ananthagiri"
   },
   {
     "Name": "PALASH BARMAN",
     "Guardian Name": "",
-    "Mobile No": "8729839022",
+    "phoneNumber": "8729839022",
     "Aadhar No": "805462061752",
     "Age": "26",
     "Gender": "Male",
@@ -302,12 +302,12 @@ export default function handler(req, res) {
     "District": "WEST TRIPURA",
     "Pincode": "799004",
     "State": "TRIPURA",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "SHYAMU",
     "Guardian Name": "",
-    "Mobile No": "8467018907",
+    "phoneNumber": "8467018907",
     "Aadhar No": "288829532325",
     "Age": "17",
     "Gender": "Male",
@@ -315,12 +315,12 @@ export default function handler(req, res) {
     "District": "HARIDWAR",
     "Pincode": "",
     "State": "UTTARAKHAND",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "MANIKANDAN",
     "Guardian Name": "",
-    "Mobile No": "9894099233",
+    "phoneNumber": "9894099233",
     "Aadhar No": "822156297668",
     "Age": "31",
     "Gender": "Male",
@@ -328,12 +328,12 @@ export default function handler(req, res) {
     "District": "SALEM",
     "Pincode": "636002",
     "State": "TAMIL NADU",
-    "Area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "Name": "A prathiba Rani",
     "Guardian Name": "",
-    "Mobile No": "9133060780",
+    "phoneNumber": "9133060780",
     "Aadhar No": "414078610576",
     "Age": "35",
     "Gender": "Female",
@@ -341,12 +341,12 @@ export default function handler(req, res) {
     "District": "KRISHNA",
     "Pincode": "520010",
     "State": "ANDHRA PRADESH",
-    "Area": "Vijayawada"
+    "Channel;-": "Vijayawada"
   },
   {
     "Name": "SURESH D",
     "Guardian Name": "",
-    "Mobile No": "8608344752",
+    "phoneNumber": "8608344752",
     "Aadhar No": "272579566062",
     "Age": "30",
     "Gender": "Male",
@@ -354,12 +354,12 @@ export default function handler(req, res) {
     "District": "CHENGALPATTU",
     "Pincode": "600063",
     "State": "TAMIL NADU",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "Ms  PRATIKSHA SAHARE",
     "Guardian Name": "",
-    "Mobile No": "9337918740",
+    "phoneNumber": "9337918740",
     "Aadhar No": "773186760536",
     "Age": "23",
     "Gender": "Female",
@@ -367,12 +367,12 @@ export default function handler(req, res) {
     "District": "NAGPUR",
     "Pincode": "",
     "State": "MAHARASHTRA",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "Name": "Mr  KURESHI JABBAR",
     "Guardian Name": "",
-    "Mobile No": "9824280832",
+    "phoneNumber": "9824280832",
     "Aadhar No": "273082766060",
     "Age": "46",
     "Gender": "Male",
@@ -380,12 +380,12 @@ export default function handler(req, res) {
     "District": "MUMBAI",
     "Pincode": "",
     "State": "MAHARASHTRA",
-    "Area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -395,12 +395,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -410,12 +410,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -425,12 +425,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -440,12 +440,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -455,12 +455,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -470,12 +470,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -485,12 +485,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -500,12 +500,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -515,12 +515,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -530,12 +530,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -545,12 +545,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -560,12 +560,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -575,12 +575,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -590,12 +590,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -605,12 +605,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -620,12 +620,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -635,12 +635,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -650,12 +650,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -665,12 +665,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -680,12 +680,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -695,12 +695,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -710,12 +710,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -725,12 +725,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -740,12 +740,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -755,12 +755,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -770,12 +770,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -785,12 +785,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -800,12 +800,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -815,12 +815,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -830,12 +830,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -845,12 +845,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -860,12 +860,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -875,12 +875,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -890,12 +890,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -905,12 +905,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -920,12 +920,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -935,12 +935,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -950,12 +950,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -965,12 +965,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -980,12 +980,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -995,12 +995,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -1010,12 +1010,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -1025,12 +1025,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -1040,12 +1040,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -1055,12 +1055,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -1070,12 +1070,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -1085,12 +1085,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -1100,12 +1100,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -1115,12 +1115,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -1130,7 +1130,7 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "CHANDRAVATHI",
@@ -1225,7 +1225,7 @@ export default function handler(req, res) {
   {
     "name": "P Koteswari",
     "father_name": "",
-    "mobile": "9949100591",
+    "phoneNumber": "9949100591",
     "id_type": "",
     "id_number": "",
     "aadhar": "767290951654",
@@ -1235,12 +1235,12 @@ export default function handler(req, res) {
     "district": "CHITTOOR",
     "pincode": "517502",
     "state": "ANDHRA PRADESH",
-    "area": "Chittoor"
+    "Channel;-": "Chittoor"
   },
   {
     "name": "ASHLESHA CHAVAN",
     "father_name": "",
-    "mobile": "8766001514",
+    "phoneNumber": "8766001514",
     "id_type": "",
     "id_number": "",
     "aadhar": "285063495109",
@@ -1250,12 +1250,12 @@ export default function handler(req, res) {
     "district": "PUNE",
     "pincode": "411001",
     "state": "MAHARASHTRA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "BHUPALI ACHARYA",
     "father_name": "",
-    "mobile": "9850815554",
+    "phoneNumber": "9850815554",
     "id_type": "",
     "id_number": "",
     "aadhar": "868083734466",
@@ -1265,12 +1265,12 @@ export default function handler(req, res) {
     "district": "PUNE",
     "pincode": "411027",
     "state": "MAHARASHTRA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "ANIL KUMAR KASAT",
     "father_name": "",
-    "mobile": "8095969184",
+    "phoneNumber": "8095969184",
     "id_type": "",
     "id_number": "",
     "aadhar": "907989514289",
@@ -1280,12 +1280,12 @@ export default function handler(req, res) {
     "district": "BENGALURU URBAN",
     "pincode": "560102",
     "state": "KARNATAKA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "KONDLE SANTOSH MURLI",
     "father_name": "",
-    "mobile": "6351373900",
+    "phoneNumber": "6351373900",
     "id_type": "",
     "id_number": "",
     "aadhar": "993169512498",
@@ -1295,12 +1295,12 @@ export default function handler(req, res) {
     "district": "SURAT",
     "pincode": "",
     "state": "GUJARAT",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "RAM SWARUP",
     "father_name": "Sadiram",
-    "mobile": "9680084033",
+    "phoneNumber": "9680084033",
     "id_type": "",
     "id_number": "",
     "aadhar": "335108476074",
@@ -1310,12 +1310,12 @@ export default function handler(req, res) {
     "district": "GURUGRAM",
     "pincode": "122004",
     "state": "HARYANA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Jyotsna kumari",
     "father_name": "",
-    "mobile": "9001001980",
+    "phoneNumber": "9001001980",
     "id_type": "",
     "id_number": "",
     "aadhar": "413405480929",
@@ -1325,12 +1325,12 @@ export default function handler(req, res) {
     "district": "VISAKHAPATANAM",
     "pincode": "530001",
     "state": "ANDHRA PRADESH",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Najebul",
     "father_name": "",
-    "mobile": "9324023992",
+    "phoneNumber": "9324023992",
     "id_type": "",
     "id_number": "",
     "aadhar": "399302257644",
@@ -1340,12 +1340,12 @@ export default function handler(req, res) {
     "district": "MALDAH",
     "pincode": "732125",
     "state": "WEST BENGAL",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "PRIYADHARSHINI",
     "father_name": "",
-    "mobile": "8508596049",
+    "phoneNumber": "8508596049",
     "id_type": "",
     "id_number": "",
     "aadhar": "373950574570",
@@ -1355,12 +1355,12 @@ export default function handler(req, res) {
     "district": "COIMBATORE",
     "pincode": "642005",
     "state": "TAMIL NADU",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "POONAM DEVI",
     "father_name": "",
-    "mobile": "9610424387",
+    "phoneNumber": "9610424387",
     "id_type": "",
     "id_number": "",
     "aadhar": "979473030735",
@@ -1370,12 +1370,12 @@ export default function handler(req, res) {
     "district": "MAHENDRAGARH",
     "pincode": "",
     "state": "HARYANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "S NANDA KUMAR",
     "father_name": "",
-    "mobile": "7007864375",
+    "phoneNumber": "7007864375",
     "id_type": "",
     "id_number": "",
     "aadhar": "553721626056",
@@ -1385,12 +1385,12 @@ export default function handler(req, res) {
     "district": "SOUTH",
     "pincode": "",
     "state": "DELHI",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "Ms  WALESA FERNANDES",
     "father_name": "",
-    "mobile": "9819096083",
+    "phoneNumber": "9819096083",
     "id_type": "",
     "id_number": "",
     "aadhar": "255670155693",
@@ -1400,12 +1400,12 @@ export default function handler(req, res) {
     "district": "THANE",
     "pincode": "400607",
     "state": "MAHARASHTRA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SHINIWES",
     "father_name": "",
-    "mobile": "7408912173",
+    "phoneNumber": "7408912173",
     "id_type": "",
     "id_number": "",
     "aadhar": "930065117386",
@@ -1415,12 +1415,12 @@ export default function handler(req, res) {
     "district": "HARIDWAR",
     "pincode": "",
     "state": "UTTARAKHAND",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SUBHAJIT MONDAL",
     "father_name": "",
-    "mobile": "8910788179",
+    "phoneNumber": "8910788179",
     "id_type": "",
     "id_number": "",
     "aadhar": "921634440277",
@@ -1430,12 +1430,12 @@ export default function handler(req, res) {
     "district": "BALLARI",
     "pincode": "",
     "state": "KARNATAKA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "Rakesh Kumar",
     "father_name": "",
-    "mobile": "9833699586",
+    "phoneNumber": "9833699586",
     "id_type": "",
     "id_number": "",
     "aadhar": "972960381553",
@@ -1445,12 +1445,12 @@ export default function handler(req, res) {
     "district": "MUMBAI",
     "pincode": "400061",
     "state": "MAHARASHTRA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "U  Sambasivaiah",
     "father_name": "",
-    "mobile": "6305103089",
+    "phoneNumber": "6305103089",
     "id_type": "",
     "id_number": "",
     "aadhar": "955122816081",
@@ -1460,12 +1460,12 @@ export default function handler(req, res) {
     "district": "Y S R",
     "pincode": "516214",
     "state": "ANDHRA PRADESH",
-    "area": "Chinnamandem"
+    "Channel;-": "Chinnamandem"
   },
   {
     "name": "MAITRAYEE KALITA",
     "father_name": "",
-    "mobile": "6026689676",
+    "phoneNumber": "6026689676",
     "id_type": "",
     "id_number": "",
     "aadhar": "735536552275",
@@ -1475,12 +1475,12 @@ export default function handler(req, res) {
     "district": "KAMRUP METRO",
     "pincode": "",
     "state": "ASSAM",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "GARGI",
     "father_name": "",
-    "mobile": "8059821624",
+    "phoneNumber": "8059821624",
     "id_type": "",
     "id_number": "",
     "aadhar": "726624727229",
@@ -1490,12 +1490,12 @@ export default function handler(req, res) {
     "district": "MAHENDRAGARH",
     "pincode": "",
     "state": "HARYANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "Master ATHARVA KUMAR",
     "father_name": "",
-    "mobile": "9004211206",
+    "phoneNumber": "9004211206",
     "id_type": "",
     "id_number": "",
     "aadhar": "562261394216",
@@ -1505,12 +1505,12 @@ export default function handler(req, res) {
     "district": "MUMBAI",
     "pincode": "401107",
     "state": "MAHARASHTRA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Bishal Senapati",
     "father_name": "",
-    "mobile": "8697231632",
+    "phoneNumber": "8697231632",
     "id_type": "",
     "id_number": "",
     "aadhar": "420637914150",
@@ -1520,12 +1520,12 @@ export default function handler(req, res) {
     "district": "KOLKATA",
     "pincode": "700008",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "Ajay Kumar",
     "father_name": "",
-    "mobile": "9899616502",
+    "phoneNumber": "9899616502",
     "id_type": "AADHAR CARD",
     "id_number": "",
     "aadhar": "821580231463",
@@ -1535,12 +1535,12 @@ export default function handler(req, res) {
     "district": "GHAZIABAD",
     "pincode": "",
     "state": "UTTAR PRADESH",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "RATISH PAIKAR",
     "father_name": "",
-    "mobile": "9049070552",
+    "phoneNumber": "9049070552",
     "id_type": "",
     "id_number": "",
     "aadhar": "781405425398",
@@ -1550,12 +1550,12 @@ export default function handler(req, res) {
     "district": "SOUTH GOA",
     "pincode": "403401",
     "state": "GOA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SHATAKSHI TYAGI",
     "father_name": "",
-    "mobile": "9582123630",
+    "phoneNumber": "9582123630",
     "id_type": "",
     "id_number": "",
     "aadhar": "255072154997",
@@ -1565,12 +1565,12 @@ export default function handler(req, res) {
     "district": "FARIDABAD",
     "pincode": "121012",
     "state": "HARYANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "AJAY SHARMA",
     "father_name": "",
-    "mobile": "9911366570",
+    "phoneNumber": "9911366570",
     "id_type": "",
     "id_number": "",
     "aadhar": "648565295394",
@@ -1580,12 +1580,12 @@ export default function handler(req, res) {
     "district": "WEST",
     "pincode": "110075",
     "state": "DELHI",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Jaganath H Jagtap",
     "father_name": "",
-    "mobile": "9503810144",
+    "phoneNumber": "9503810144",
     "id_type": "",
     "id_number": "",
     "aadhar": "238149462308",
@@ -1595,12 +1595,12 @@ export default function handler(req, res) {
     "district": "SOLAPUR",
     "pincode": "413101",
     "state": "MAHARASHTRA",
-    "area": "Rural"
+    "Channel;-": "Rural"
   },
   {
     "name": "Gowri Naidu",
     "father_name": "",
-    "mobile": "7337259694",
+    "phoneNumber": "7337259694",
     "id_type": "",
     "id_number": "",
     "aadhar": "683608981383",
@@ -1610,12 +1610,12 @@ export default function handler(req, res) {
     "district": "VIZIANAGARAM",
     "pincode": "535547",
     "state": "ANDHRA PRADESH",
-    "area": "Makkuva"
+    "Channel;-": "Makkuva"
   },
   {
     "name": "MADONVBEI SALOISANEI",
     "father_name": "",
-    "mobile": "8415061828",
+    "phoneNumber": "8415061828",
     "id_type": "",
     "id_number": "",
     "aadhar": "276294703486",
@@ -1625,12 +1625,12 @@ export default function handler(req, res) {
     "district": "KAMRUP METRO",
     "pincode": "",
     "state": "ASSAM",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "JITENDRA",
     "father_name": "",
-    "mobile": "9528040270",
+    "phoneNumber": "9528040270",
     "id_type": "",
     "id_number": "",
     "aadhar": "448276274402",
@@ -1640,12 +1640,12 @@ export default function handler(req, res) {
     "district": "HARIDWAR",
     "pincode": "",
     "state": "UTTARAKHAND",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "NANDITA BARMAN",
     "father_name": "",
-    "mobile": "8637362453",
+    "phoneNumber": "8637362453",
     "id_type": "",
     "id_number": "",
     "aadhar": "653512426336",
@@ -1655,12 +1655,12 @@ export default function handler(req, res) {
     "district": "COOCHBEHAR",
     "pincode": "736167",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "M Visweswara Rao",
     "father_name": "",
-    "mobile": "8688570850",
+    "phoneNumber": "8688570850",
     "id_type": "",
     "id_number": "",
     "aadhar": "673744468225",
@@ -1670,12 +1670,12 @@ export default function handler(req, res) {
     "district": "SRIKAKULAM",
     "pincode": "532212",
     "state": "ANDHRA PRADESH",
-    "area": "Tekkali"
+    "Channel;-": "Tekkali"
   },
   {
     "name": "PARMAR DAMYANTIBEN RATILAL",
     "father_name": "",
-    "mobile": "9978258561",
+    "phoneNumber": "9978258561",
     "id_type": "",
     "id_number": "",
     "aadhar": "364892279695",
@@ -1685,12 +1685,12 @@ export default function handler(req, res) {
     "district": "SURAT",
     "pincode": "",
     "state": "GUJARAT",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Gudise  Urukundu",
     "father_name": "",
-    "mobile": "6281923366",
+    "phoneNumber": "6281923366",
     "id_type": "",
     "id_number": "",
     "aadhar": "636591856898",
@@ -1700,12 +1700,12 @@ export default function handler(req, res) {
     "district": "KURNOOL",
     "pincode": "518319",
     "state": "ANDHRA PRADESH",
-    "area": "Mantralayam"
+    "Channel;-": "Mantralayam"
   },
   {
     "name": "MASKE GORKHNATH",
     "father_name": "TULSHIRAM",
-    "mobile": "7820938972",
+    "phoneNumber": "7820938972",
     "id_type": "",
     "id_number": "",
     "aadhar": "837958065648",
@@ -1715,12 +1715,12 @@ export default function handler(req, res) {
     "district": "LATUR",
     "pincode": "431522",
     "state": "MAHARASHTRA",
-    "area": "Rural"
+    "Channel;-": "Rural"
   },
   {
     "name": "U  Janakiramudu",
     "father_name": "",
-    "mobile": "7075373503",
+    "phoneNumber": "7075373503",
     "id_type": "",
     "id_number": "",
     "aadhar": "325228485408",
@@ -1730,12 +1730,12 @@ export default function handler(req, res) {
     "district": "KURNOOL",
     "pincode": "518452",
     "state": "ANDHRA PRADESH",
-    "area": "Kurnool"
+    "Channel;-": "Kurnool"
   },
   {
     "name": "HARISHCHANDRA PRAJAPATI",
     "father_name": "",
-    "mobile": "8604646926",
+    "phoneNumber": "8604646926",
     "id_type": "",
     "id_number": "",
     "aadhar": "123456789123",
@@ -1745,12 +1745,12 @@ export default function handler(req, res) {
     "district": "MUMBAI",
     "pincode": "400012",
     "state": "MAHARASHTRA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "P Supriya",
     "father_name": "",
-    "mobile": "9701201620",
+    "phoneNumber": "9701201620",
     "id_type": "",
     "id_number": "",
     "aadhar": "875155546394",
@@ -1760,12 +1760,12 @@ export default function handler(req, res) {
     "district": "KRISHNA",
     "pincode": "521343",
     "state": "ANDHRA PRADESH",
-    "area": "Mudinepalle"
+    "Channel;-": "Mudinepalle"
   },
   {
     "name": "DIWAN SINGH",
     "father_name": "",
-    "mobile": "7668659061",
+    "phoneNumber": "7668659061",
     "id_type": "",
     "id_number": "",
     "aadhar": "595413723794",
@@ -1775,12 +1775,12 @@ export default function handler(req, res) {
     "district": "DEHRADUN",
     "pincode": "",
     "state": "UTTARAKHAND",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "PURVA MANE",
     "father_name": "",
-    "mobile": "9867201385",
+    "phoneNumber": "9867201385",
     "id_type": "",
     "id_number": "",
     "aadhar": "273408919518",
@@ -1790,12 +1790,12 @@ export default function handler(req, res) {
     "district": "MUMBAI",
     "pincode": "400082",
     "state": "MAHARASHTRA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "KAMALA KANNAN R",
     "father_name": "",
-    "mobile": "9840384891",
+    "phoneNumber": "9840384891",
     "id_type": "",
     "id_number": "",
     "aadhar": "447668374885",
@@ -1805,12 +1805,12 @@ export default function handler(req, res) {
     "district": "KANCHIPURAM",
     "pincode": "600116",
     "state": "TAMIL NADU",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "RASATABI SHEKH KADAR",
     "father_name": "",
-    "mobile": "9420759392",
+    "phoneNumber": "9420759392",
     "id_type": "",
     "id_number": "",
     "aadhar": "489358219240",
@@ -1820,12 +1820,12 @@ export default function handler(req, res) {
     "district": "AURANGABAD",
     "pincode": "431103",
     "state": "MAHARASHTRA",
-    "area": "Rural"
+    "Channel;-": "Rural"
   },
   {
     "name": "SAVITA TIWARI",
     "father_name": "Abhishek tiwari",
-    "mobile": "9015080451",
+    "phoneNumber": "9015080451",
     "id_type": "",
     "id_number": "",
     "aadhar": "858193826918",
@@ -1835,12 +1835,12 @@ export default function handler(req, res) {
     "district": "FIROZABAD",
     "pincode": "224161",
     "state": "UTTAR PRADESH",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "DHEESHIDHAN",
     "father_name": "",
-    "mobile": "9884887242",
+    "phoneNumber": "9884887242",
     "id_type": "",
     "id_number": "",
     "aadhar": "301692756376",
@@ -1850,12 +1850,12 @@ export default function handler(req, res) {
     "district": "CHENGALPATTU",
     "pincode": "600127",
     "state": "TAMIL NADU",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOSTAFA HOSSAIN",
     "father_name": "",
-    "mobile": "9434460601",
+    "phoneNumber": "9434460601",
     "id_type": "",
     "id_number": "",
     "aadhar": "683399379741",
@@ -1865,12 +1865,12 @@ export default function handler(req, res) {
     "district": "DINAJPUR DAKSHIN",
     "pincode": "733125",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "DAISY SAPRA",
     "father_name": "",
-    "mobile": "",
+    "phoneNumber": "",
     "id_type": "",
     "id_number": "",
     "aadhar": "628986163424",
@@ -1880,12 +1880,12 @@ export default function handler(req, res) {
     "district": "NEW DELHI",
     "pincode": "",
     "state": "DELHI",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "RENU BAL GOVIND SAHANI",
     "father_name": "",
-    "mobile": "8879874621",
+    "phoneNumber": "8879874621",
     "id_type": "",
     "id_number": "",
     "aadhar": "292328000058",
@@ -1895,12 +1895,12 @@ export default function handler(req, res) {
     "district": "THANE",
     "pincode": "",
     "state": "MAHARASHTRA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "NESHAT AHMAD",
     "father_name": "ayub",
-    "mobile": "9871339678",
+    "phoneNumber": "9871339678",
     "id_type": "",
     "id_number": "",
     "aadhar": "223187238206",
@@ -1910,12 +1910,12 @@ export default function handler(req, res) {
     "district": "EAST",
     "pincode": "110092",
     "state": "DELHI",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MANGALA NALAWADE",
     "father_name": "",
-    "mobile": "8828539241",
+    "phoneNumber": "8828539241",
     "id_type": "",
     "id_number": "",
     "aadhar": "596876548129",
@@ -1925,12 +1925,12 @@ export default function handler(req, res) {
     "district": "MUMBAI SUBURBAN",
     "pincode": "400072",
     "state": "MAHARASHTRA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "B drakshavalli",
     "father_name": "",
-    "mobile": "6305398939",
+    "phoneNumber": "6305398939",
     "id_type": "",
     "id_number": "",
     "aadhar": "366538197437",
@@ -1940,12 +1940,12 @@ export default function handler(req, res) {
     "district": "KRISHNA",
     "pincode": "521213",
     "state": "ANDHRA PRADESH",
-    "area": "Chatrai"
+    "Channel;-": "Chatrai"
   },
   {
     "name": "R durga",
     "father_name": "",
-    "mobile": "9966739446",
+    "phoneNumber": "9966739446",
     "id_type": "",
     "id_number": "",
     "aadhar": "425827876519",
@@ -1955,12 +1955,12 @@ export default function handler(req, res) {
     "district": "KRISHNA",
     "pincode": "520015",
     "state": "ANDHRA PRADESH",
-    "area": "Vijayawada"
+    "Channel;-": "Vijayawada"
   },
   {
     "name": "AVANI PRAMOD PATIL",
     "father_name": "",
-    "mobile": "9922112040",
+    "phoneNumber": "9922112040",
     "id_type": "",
     "id_number": "",
     "aadhar": "288563089929",
@@ -1970,12 +1970,12 @@ export default function handler(req, res) {
     "district": "PUNE",
     "pincode": "",
     "state": "MAHARASHTRA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Shabir Ahmad",
     "father_name": "Gh mohd",
-    "mobile": "7780972540",
+    "phoneNumber": "7780972540",
     "id_type": "",
     "id_number": "",
     "aadhar": "Not availabl",
@@ -1985,12 +1985,12 @@ export default function handler(req, res) {
     "district": "SHOPIAN",
     "pincode": "192303",
     "state": "JAMMU AND KASHMIR",
-    "area": "Rural"
+    "Channel;-": "Rural"
   },
   {
     "name": "ALEXANTONY JOHNPETER",
     "father_name": "",
-    "mobile": "9884143115",
+    "phoneNumber": "9884143115",
     "id_type": "P8080895",
     "id_number": "",
     "aadhar": "956307718985",
@@ -2000,12 +2000,12 @@ export default function handler(req, res) {
     "district": "DINDIGUL",
     "pincode": "624004",
     "state": "TAMIL NADU",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Kr  Rajeswari",
     "father_name": "",
-    "mobile": "9966037215",
+    "phoneNumber": "9966037215",
     "id_type": "",
     "id_number": "",
     "aadhar": "501853540232",
@@ -2015,12 +2015,12 @@ export default function handler(req, res) {
     "district": "KRISHNA",
     "pincode": "521212",
     "state": "ANDHRA PRADESH",
-    "area": "Vijayawada  Rural"
+    "Channel;-": "Vijayawada  Rural"
   },
   {
     "name": "BABU SHAIKH",
     "father_name": "",
-    "mobile": "9022655079",
+    "phoneNumber": "9022655079",
     "id_type": "",
     "id_number": "",
     "aadhar": "598554304213",
@@ -2030,12 +2030,12 @@ export default function handler(req, res) {
     "district": "MUMBAI",
     "pincode": "",
     "state": "MAHARASHTRA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "KANDHASAMY S",
     "father_name": "",
-    "mobile": "9840362757",
+    "phoneNumber": "9840362757",
     "id_type": "",
     "id_number": "",
     "aadhar": "476499130395",
@@ -2045,12 +2045,12 @@ export default function handler(req, res) {
     "district": "ERODE",
     "pincode": "638051",
     "state": "TAMIL NADU",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "Rachit Goel",
     "father_name": "",
-    "mobile": "8448693461",
+    "phoneNumber": "8448693461",
     "id_type": "Z5551813",
     "id_number": "",
     "aadhar": "471631867124",
@@ -2060,12 +2060,12 @@ export default function handler(req, res) {
     "district": "NORTH WEST",
     "pincode": "110035",
     "state": "DELHI",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Sarika patil",
     "father_name": "",
-    "mobile": "9405182745",
+    "phoneNumber": "9405182745",
     "id_type": "",
     "id_number": "",
     "aadhar": "877732188420",
@@ -2075,12 +2075,12 @@ export default function handler(req, res) {
     "district": "NASHIK",
     "pincode": "",
     "state": "MAHARASHTRA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "rakesh kumar",
     "father_name": "",
-    "mobile": "9816260208",
+    "phoneNumber": "9816260208",
     "id_type": "",
     "id_number": "",
     "aadhar": "874290674434",
@@ -2090,12 +2090,12 @@ export default function handler(req, res) {
     "district": "PUNE",
     "pincode": "41102",
     "state": "MAHARASHTRA",
-    "area": "Urban"
+    "Channel;-": "Urban"
   },
   {
     "name": "Minaz Hussain",
     "father_name": "",
-    "mobile": "9920241522",
+    "phoneNumber": "9920241522",
     "id_type": "",
     "id_number": "",
     "aadhar": "934524354013",
@@ -2105,12 +2105,12 @@ export default function handler(req, res) {
     "district": "BUNDI",
     "pincode": "",
     "state": "RAJASTHAN",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MEENA SANGA",
     "father_name": "",
-    "mobile": "7397872739",
+    "phoneNumber": "7397872739",
     "id_type": "",
     "id_number": "",
     "aadhar": "682243509345",
@@ -2120,12 +2120,12 @@ export default function handler(req, res) {
     "district": "SOUTH GOA",
     "pincode": "403722",
     "state": "GOA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MANOJ MISHRA",
     "father_name": "",
-    "mobile": "8108414248",
+    "phoneNumber": "8108414248",
     "id_type": "",
     "id_number": "",
     "aadhar": "600038004071",
@@ -2135,12 +2135,12 @@ export default function handler(req, res) {
     "district": "MUMBAI",
     "pincode": "421503",
     "state": "MAHARASHTRA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "RINKU DEVI",
     "father_name": "",
-    "mobile": "8092963253",
+    "phoneNumber": "8092963253",
     "id_type": "",
     "id_number": "",
     "aadhar": "721996418547",
@@ -2150,12 +2150,12 @@ export default function handler(req, res) {
     "district": "JHAJJAR",
     "pincode": "",
     "state": "HARYANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "A Subrahmanyam Reddy",
     "father_name": "",
-    "mobile": "8341700615",
+    "phoneNumber": "8341700615",
     "id_type": "",
     "id_number": "",
     "aadhar": "780061103632",
@@ -2165,12 +2165,12 @@ export default function handler(req, res) {
     "district": "GUNTUR",
     "pincode": "522101",
     "state": "ANDHRA PRADESH",
-    "area": "Bapatla"
+    "Channel;-": "Bapatla"
   },
   {
     "name": "Ms  SAYED TANZEEL FATEMA",
     "father_name": "",
-    "mobile": "9678797032",
+    "phoneNumber": "9678797032",
     "id_type": "",
     "id_number": "",
     "aadhar": "976295832244",
@@ -2180,12 +2180,12 @@ export default function handler(req, res) {
     "district": "AURANGABAD",
     "pincode": "431001",
     "state": "MAHARASHTRA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SANJAY RAI",
     "father_name": "",
-    "mobile": "9506704484",
+    "phoneNumber": "9506704484",
     "id_type": "",
     "id_number": "",
     "aadhar": "452586134485",
@@ -2195,12 +2195,12 @@ export default function handler(req, res) {
     "district": "CHANDRAPUR",
     "pincode": "442908",
     "state": "MAHARASHTRA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "RAJESH KUMAR",
     "father_name": "",
-    "mobile": "9319339700",
+    "phoneNumber": "9319339700",
     "id_type": "",
     "id_number": "",
     "aadhar": "779949107430",
@@ -2210,12 +2210,12 @@ export default function handler(req, res) {
     "district": "GURUGRAM",
     "pincode": "122103",
     "state": "HARYANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SANTOSH KUMAR",
     "father_name": "",
-    "mobile": "6200363976",
+    "phoneNumber": "6200363976",
     "id_type": "",
     "id_number": "",
     "aadhar": "559768374006",
@@ -2225,12 +2225,12 @@ export default function handler(req, res) {
     "district": "SAHIBGANJ",
     "pincode": "816101",
     "state": "JHARKHAND",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2240,12 +2240,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2255,12 +2255,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2270,12 +2270,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2285,12 +2285,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2300,12 +2300,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2315,12 +2315,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2330,12 +2330,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2345,12 +2345,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2360,12 +2360,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2375,12 +2375,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2390,12 +2390,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2405,12 +2405,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2420,12 +2420,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2435,12 +2435,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2450,12 +2450,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2465,12 +2465,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2480,12 +2480,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2495,12 +2495,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2510,12 +2510,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2525,12 +2525,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2540,12 +2540,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2555,12 +2555,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2570,12 +2570,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2585,12 +2585,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2600,12 +2600,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2615,12 +2615,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2630,12 +2630,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2645,12 +2645,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2660,12 +2660,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2675,12 +2675,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2690,12 +2690,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2705,12 +2705,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2720,12 +2720,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2735,12 +2735,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2750,12 +2750,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2765,12 +2765,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2780,12 +2780,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2795,12 +2795,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2810,12 +2810,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2825,12 +2825,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2840,12 +2840,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2855,12 +2855,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2870,12 +2870,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2885,12 +2885,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2900,12 +2900,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2915,12 +2915,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2930,12 +2930,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2945,12 +2945,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2960,12 +2960,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -2975,12 +2975,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -2990,12 +2990,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3005,12 +3005,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3020,12 +3020,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3035,12 +3035,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3050,12 +3050,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3065,12 +3065,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3080,12 +3080,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3095,12 +3095,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3110,12 +3110,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3125,12 +3125,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3140,12 +3140,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3155,12 +3155,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3170,12 +3170,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3185,12 +3185,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3200,12 +3200,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3215,12 +3215,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3230,12 +3230,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3245,12 +3245,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3260,12 +3260,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3275,12 +3275,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3290,12 +3290,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3305,12 +3305,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3320,12 +3320,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3335,12 +3335,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3350,12 +3350,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3365,12 +3365,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3380,12 +3380,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3395,12 +3395,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3410,12 +3410,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3425,12 +3425,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3440,12 +3440,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3455,12 +3455,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3470,12 +3470,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3485,12 +3485,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3500,12 +3500,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3515,12 +3515,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3530,12 +3530,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3545,12 +3545,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3560,12 +3560,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3575,12 +3575,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3590,12 +3590,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3605,12 +3605,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3620,12 +3620,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3635,12 +3635,12 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "MOHAMMED  ASHRAF",
     "father_name": "",
-    "mobile": "9947464249",
+    "phoneNumber": "9947464249",
     "id_type": "",
     "id_number": "",
     "aadhar": "762358776029",
@@ -3650,12 +3650,12 @@ export default function handler(req, res) {
     "district": "KARIMNAGAR",
     "pincode": "505001",
     "state": "TELANGANA",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "SIDDHARTHA SANKAR DAS",
     "father_name": "",
-    "mobile": "9435011636",
+    "phoneNumber": "9435011636",
     "id_type": "",
     "id_number": "",
     "aadhar": "993045557533",
@@ -3665,7 +3665,7 @@ export default function handler(req, res) {
     "district": "PASCHIM MEDINIPUR",
     "pincode": "721437",
     "state": "WEST BENGAL",
-    "area": ""
+    "Channel;-": " https://t.me/+_EjlK4NM5qZmMjM1 "
   },
   {
     "name": "PRASHANT K",
